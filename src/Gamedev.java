@@ -1,3 +1,3 @@
-public class Gamerdev extends Personaje {
+public class Gamedev extends Personaje {
     int inspiracion;
 }
