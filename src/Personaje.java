@@ -106,4 +106,7 @@ public class Personaje {
 
   }
 
+  public void trabajar(){
+    System.out.println("Chambeando");
+  }
 }
