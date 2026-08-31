@@ -34,3 +34,21 @@
 
   }
 
+        case "4":
+          testeandoCositas();
+          break;
+
+
+            static void testeandoCositas(){
+    System.out.println("Este es el hacker");
+    Personaje hacker = new Hacker();
+    hacker.trabajar();
+
+    hacker.validarNombre("Carlitos");
+    System.out.println(hacker.mostrarNombre());
+
+    System.out.println("Este es el gamedev");
+    Personaje gamedev = new Gamedev();
+    gamedev.trabajar();
+    
+  }
