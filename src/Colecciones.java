@@ -65,3 +65,7 @@ for (int i = 0; i < alumnos.size(); i++) {
         }
     }
 }
+
+// Crear rama nueva llamada proyecto/instagram en donde debes crear el diagrama de clases uml de instagram disponible en la pag web del curso.
+// Desafio: El autor debe ser una clase en lugar de un atributo, y usted debe implementar un metodo que me permita almacenar multiples autores. luego implemente un 
+// segundo metodo para mostrar esos autores
